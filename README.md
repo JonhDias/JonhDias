@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Jhonatas Dias.
-- Sou Estudante (Desenvolvedor Full Stack) pela Escola  #Arnia , Módulo 1.
+- Sou Estudante (Desenvolvedor Full Stack).
 
 <!---
 JonhDias/JonhDias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
