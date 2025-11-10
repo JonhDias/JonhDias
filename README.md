@@ -10,6 +10,7 @@
 </p>
 
 [![Jhonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatasdias)](https://github.com/jhonatasdias/github-readme-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatasdias)](https://github.com/jhonatasdias/github-readme-stats)
 
 
