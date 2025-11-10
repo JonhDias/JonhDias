@@ -7,7 +7,7 @@
 -  Começando a aprender JavaScript ja criando alguns projetos.
 ### Connect with me:
 <p>
-- <a href="https://www.linkedin.com/in/jhonatas-dias-8019b91a1"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/></a>
+ <a href="https://www.linkedin.com/in/jhonatas-dias-8019b91a1"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/></a>
 </p>
 
 
