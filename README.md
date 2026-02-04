@@ -9,9 +9,9 @@
  <a href="https://www.linkedin.com/in/jhonatas-dias-8019b91a1"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/></a>
 </p>
 
-[![Jhonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatasdias)](https://github.com/jhonatasdias/github-readme-stats)
+[[Jhonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatasdias)](https://github.com/jhonatasdias/github-readme-stats)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatasdias)](https://github.com/jhonatasdias/github-readme-stats)
+[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatasdias)](https://github.com/jhonatasdias/github-readme-stats)
 
 
 
